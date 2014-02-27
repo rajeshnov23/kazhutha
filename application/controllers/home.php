@@ -21,7 +21,10 @@ var $regions;
 	$this->template->set_layout('common');
         $this->template->build('kazhutha_view'); // application/views/layouts/two_col.php
     }
+	public function test()
+{
 
+}
 }
 
 /* End of file welcome.php */
